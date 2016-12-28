@@ -1,0 +1,15 @@
+# Build
+build
+bin
+
+# Eclipse
+.settings
+.project
+.classpath
+
+# Gradle
+.gradle
+
+# Other
+*.swp
+
